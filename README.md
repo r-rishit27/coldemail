@@ -3,7 +3,7 @@
 ## 📘 Project Overview
 
 This project automates the process of generating personalized cold emails for job applications. By simply pasting the URL of a job posting, the tool crafts a targeted email addressing the hiring manager and showcasing how the candidate's skills, experience, and portfolio align perfectly with the role.
-
+![alt txt](https://github.com/r-rishit27/coldemail/blob/main/Screenshot%202024-08-31%20020645.png
 ## 🛠️ Features
 
 - **Job Posting URL Input**: Analyze job posting content directly from the URL.
