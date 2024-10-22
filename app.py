@@ -4,7 +4,6 @@ from main import Chain
 from portfolio import Portfolio
 from utills import clean_text
 
-tuneai_api_key: str = st.sidebar.text_input("TuneAI API Key", type="password")
 
 def create_streamlit_app(llm, portfolio, clean_text):
     # Set the background and title styling
