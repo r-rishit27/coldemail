@@ -31,9 +31,11 @@ This project automates the process of generating personalized cold emails for jo
    ```bash
    git clone https://github.com/your-repo/cold-email-generator.git
    cd cold-email-generator
+   
 2.Install the dependencies:
  ```bash
 pip install -r requirements.txt
-3.Run the application
+
+3.Run the application:
  ```bash
 python app.py
